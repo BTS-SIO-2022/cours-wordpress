@@ -56,4 +56,22 @@ Créé en 2003 par https://automattic.com/
 - https://thewaltdisneycompany.com/
 - https://techcrunch.com/
 - https://www.angrybirds.com/
-- 
+
+
+### Pour tout savoir autour de Wordpress
+
+Le Codex Wordpress soit la documentation technique à destination des développeurs de Wordpress
+https://developer.wordpress.org/
+
+La documentation utilisateur 
+https://wordpress.org/support/
+
+Les supports de "cours" fait par Wordpress (tuto)
+https://learn.wordpress.org/
+
+Les autres sources possibles :
+https://wpmarmite.com/themes-wordpress/
+https://www.wpbeginner.com/
+https://wpfr.net/
+https://wordpress.stackexchange.com/
+https://grafikart.fr/tutoriels/wordpress
